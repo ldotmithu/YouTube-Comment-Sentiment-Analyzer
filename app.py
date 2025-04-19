@@ -31,7 +31,7 @@ if yt_url:
                     df['Sentiment'] = df['Comment'].apply(analyze_sentiment)
 
                 st.success("Analysis complete!")
-                #Sst.write("### Comments with Sentiments(display 5 comments)", df.head())
+                st.write("### Comments with Sentiments(display 5 comments)", df.head())
 
              
                 csv_path = 'youtube_comments_with_sentiment.csv'
