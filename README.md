@@ -50,9 +50,17 @@ YOUTUBE_API_KEY=your_youtube_api_key
 This app uses AI models and may not always return perfect results. It is meant for educational or exploratory purposes only.
 
 ---
-## 📬 Contact
-
-Built by Mithurshan
-Feel free to reach out on [LinkedIn ](https://www.linkedin.com/in/mithurshan6) or contribute via PR!
-
+### Contributor: L. Mithurshan
 ---
+
+### License 📝
+This project is licensed under the Apache License 📜
+---
+
+## **Glance of the Project**
+
+![image](https://github.com/ldotmithu/Dataset/blob/main/Screenshot%20(12).png)
+![image](https://github.com/ldotmithu/Dataset/blob/main/Screenshot%20(13).png)
+---
+
+Happy coding! 😊
